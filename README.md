@@ -1,10 +1,10 @@
 # python-machine-learning
 
-* Preprocessing
+* **Preprocessing**
 	
 	+ [Standardization and Normalization](standardization-and-normalization.ipynb)
 
-* Module Selection
+* **Module Selection**
 
 	+ [Training and test data splitting](train-test-split.ipynb)
 	+ [Cross Validation](cross-validation.ipynb)
