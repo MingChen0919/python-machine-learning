@@ -1,7 +1,8 @@
 # python-machine-learning
 
 * **Preprocessing**
-	
+
+	+ [Check missing values in pandas DataFrames](check-missing-values-in-dataframe.ipynb)	
 	+ [Standardization and Normalization](standardization-and-normalization.ipynb)
 	+ [Scaling Features to a Range](scaling-features-to-a-range.ipynb)
 
@@ -15,8 +16,7 @@
 	+ [Generalized linear models](generalized-linear-models.ipynb)
 	
 * **Misc**
-
-	+ [Check missing values in pandas DataFrames](check-missing-values-in-dataframe.ipynb)
+	
 	+ [Prior, posterior and Conjugate distribution](https://stats.stackexchange.com/questions/58564/help-me-understand-bayesian-prior-and-posterior-distributions)
 	+ Statistical symbols
 		
