@@ -10,6 +10,10 @@
 	+ [Training and Test Data Splitting](train-test-split.ipynb)
 	+ [Cross Validation](cross-validation.ipynb)
 
+* **Machine Learning**
+
+	+ [Generalized linear models](generalized-linear-models.ipynb)
+	
 * **Misc**
 
 	+ [Check missing values in pandas DataFrames](check-missing-values-in-dataframe.ipynb)
