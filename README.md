@@ -23,3 +23,4 @@
 		* [https://www.statistics.com/statsymbols.pdf](https://www.statistics.com/statsymbols.pdf)
 		* [http://www.rapidtables.com/math/symbols/Statistical_Symbols.htm](http://www.rapidtables.com/math/symbols/Statistical_Symbols.htm)
 	+ [What is precision in Gaussian distribution?](https://stats.stackexchange.com/questions/211419/whats-in-a-name-precision-inverse-of-variance)
+	+ [Location, Scale and Shape parameters of a distribution](https://www.quora.com/What-is-meant-by-modelling-of-shape-scale-and-location-parameter-of-a-distribution)
