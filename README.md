@@ -17,4 +17,7 @@
 * **Misc**
 
 	+ [Check missing values in pandas DataFrames](check-missing-values-in-dataframe.ipynb)
-	+ [Statistical symbols: https://www.statistics.com/statsymbols.pdf](https://www.statistics.com/statsymbols.pdf)
+	+ Statistical symbols
+		
+		* [https://www.statistics.com/statsymbols.pdf](https://www.statistics.com/statsymbols.pdf)
+		* [http://www.rapidtables.com/math/symbols/Statistical_Symbols.htm](http://www.rapidtables.com/math/symbols/Statistical_Symbols.htm)
