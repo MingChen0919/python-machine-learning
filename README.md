@@ -17,6 +17,7 @@
 * **Misc**
 
 	+ [Check missing values in pandas DataFrames](check-missing-values-in-dataframe.ipynb)
+	+ [Prior, posterior and Conjugate distribution](https://stats.stackexchange.com/questions/58564/help-me-understand-bayesian-prior-and-posterior-distributions)
 	+ Statistical symbols
 		
 		* [https://www.statistics.com/statsymbols.pdf](https://www.statistics.com/statsymbols.pdf)
