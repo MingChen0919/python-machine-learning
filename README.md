@@ -28,3 +28,4 @@
 	+ [Location, Scale and Shape parameters of a distribution](https://www.quora.com/What-is-meant-by-modelling-of-shape-scale-and-location-parameter-of-a-distribution)
 	+ [What are hyperparameters](https://stats.stackexchange.com/questions/208225/whats-in-a-name-hyperparameters)
 	+ [What is learning rate](https://www.quora.com/What-is-the-learning-rate-in-neural-networks)
+	+ [梯度下降（Gradient Descent）小结](http://www.cnblogs.com/pinard/p/5970503.html)
