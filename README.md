@@ -15,6 +15,7 @@
 
 	+ [Generalized linear models](generalized-linear-models.ipynb)
 	+ [Regularization parameter selection](regularization-parameter-selection.ipynb)
+	+ [Coefficients as a function of regularization](coefficients-and-regularization.ipynb)
 	
 * **Misc**
 	
