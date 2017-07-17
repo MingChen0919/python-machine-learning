@@ -14,6 +14,7 @@
 * **Machine Learning**
 
 	+ [Generalized linear models](generalized-linear-models.ipynb)
+	+ [Regularization parameter selection](regularization-parameter-selection.ipynb)
 	
 * **Misc**
 	
