@@ -29,3 +29,7 @@
 	+ [What are hyperparameters](https://stats.stackexchange.com/questions/208225/whats-in-a-name-hyperparameters)
 	+ [What is learning rate](https://www.quora.com/What-is-the-learning-rate-in-neural-networks)
 	+ [梯度下降（Gradient Descent）小结](http://www.cnblogs.com/pinard/p/5970503.html)
+	+ Linear Algebra
+		* [奇异矩阵的几何意义](https://ask.julyedu.com/question/7239)
+		* [行列式的几何意义](http://www.cnblogs.com/AndyJee/p/3491487.html)
+		* [逆矩阵inverse matrix](http://blog.csdn.net/vernice/article/details/48506027)
