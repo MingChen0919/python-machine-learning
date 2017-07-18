@@ -33,4 +33,4 @@
 		* [奇异矩阵的几何意义](https://ask.julyedu.com/question/7239)
 		* [行列式的几何意义](http://www.cnblogs.com/AndyJee/p/3491487.html)
 		* [逆矩阵inverse matrix](http://blog.csdn.net/vernice/article/details/48506027)
-	+ [Bayes theorem](bayes-theorm.ipnby)
+	+ [Bayes theorem](bayes-theorem.ipnby)
