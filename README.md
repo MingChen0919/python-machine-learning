@@ -34,3 +34,4 @@
 		* [行列式的几何意义](http://www.cnblogs.com/AndyJee/p/3491487.html)
 		* [逆矩阵inverse matrix](http://blog.csdn.net/vernice/article/details/48506027)
 	+ [Bayes theorem](bayes-theorem.ipynb)
+	+ [线性判别分析(Linear Discriminant Analysis)](http://blog.csdn.net/daunxx/article/details/51881956)
