@@ -35,3 +35,4 @@
 		* [逆矩阵inverse matrix](http://blog.csdn.net/vernice/article/details/48506027)
 	+ [Bayes theorem](bayes-theorem.ipynb)
 	+ [线性判别分析(Linear Discriminant Analysis)](http://blog.csdn.net/daunxx/article/details/51881956)
+	+ [线性判别函数与广义线性判别函数](http://www.cnblogs.com/Determined22/p/6507329.html)
