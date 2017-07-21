@@ -36,3 +36,4 @@
 	+ [Bayes theorem](bayes-theorem.ipynb)
 	+ Reference: [线性判别分析(Linear Discriminant Analysis)](http://blog.csdn.net/daunxx/article/details/51881956)
 	+ Reference: [线性判别函数与广义线性判别函数](http://www.cnblogs.com/Determined22/p/6507329.html)
+	+ Reference: [支持向量机通俗导论（理解SVM的三层境界）](http://blog.csdn.net/v_july_v/article/details/7624837)
